@@ -1,0 +1,1175 @@
+Delivered-To: rhlmehta48@gmail.com
+Received: by 10.157.20.253 with SMTP id r58csp859221otr;
+        Thu, 13 Apr 2017 13:48:37 -0700 (PDT)
+X-Received: by 10.13.234.193 with SMTP id t184mr612938ywe.150.1492116516998;
+        Thu, 13 Apr 2017 13:48:36 -0700 (PDT)
+Return-Path: <bounce-mc.us3_26596899.812345-rhlmehta48=gmail.com@newsletters.ello.co>
+Received: from newsletters.ello.co (newsletters.ello.co. [198.2.129.169])
+        by mx.google.com with ESMTPS id n5si7888482ybn.9.2017.04.13.13.48.36
+        for <rhlmehta48@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 13 Apr 2017 13:48:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us3_26596899.812345-rhlmehta48=gmail.com@newsletters.ello.co designates 198.2.129.169 as permitted sender) client-ip=198.2.129.169;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@newsletters.ello.co;
+       dkim=pass header.i=@gmail.mcsv.net;
+       spf=pass (google.com: domain of bounce-mc.us3_26596899.812345-rhlmehta48=gmail.com@newsletters.ello.co designates 198.2.129.169 as permitted sender) smtp.mailfrom=bounce-mc.us3_26596899.812345-rhlmehta48=gmail.com@newsletters.ello.co
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=newsletters.ello.co; h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version; i=notifications@newsletters.ello.co; bh=mLcMEVqKM5D749mdGTfPObn460c=; b=mbdBVvfw3K9tK3MjrpImNcUw3u7mG2oL/lX4QBWYbXRF1NzaluTzczDuAOsn81PCWTeE54VQU+xn
+   hQF2ign5sdIX0a3J3LkhRFFbvQ3qyuCV1vT7IxxIRtVhWpTjRd9//iiIVffB2gfAQw0Qknd91u+1
+   63vvi1wkB2kLakFhrmU=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net; h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version; bh=mLcMEVqKM5D749mdGTfPObn460c=; b=InVSHseVhxatR4ZnXUNixuu/+FKI2bcldgKM5is1Av3rDJQaIHWrWzd0W+v2I6MG82Jh2t7hPeEo
+   im8sdBu01roawpDOy+2sZo7+Eep/eKxK+TmePz7Y2Kbg99serfvfVPALyIj1L3XqUMZrx3zNjbAi
+   TXpud/fd3pHdkEOmhsM=
+Received: from (127.0.0.1) by newsletters.ello.co id htvi281ohk0n for <rhlmehta48@gmail.com>; Thu, 13 Apr 2017 20:09:39 +0000 (envelope-from <bounce-mc.us3_26596899.812345-rhlmehta48=gmail.com@newsletters.ello.co>)
+Subject: Win a copy of Not For Print. Give us your feedback. 
+From: Ello <notifications@newsletters.ello.co>
+Reply-To: Ello <notifications@newsletters.ello.co>
+To: <rhlmehta48@gmail.com>
+Date: Thu, 13 Apr 2017 20:09:39 +0000
+Message-ID: <9ad48e023e0e67d4a8cda3fc9.cb28263d51.20170413200829.0d64188331.35c04f69@newsletters.ello.co>
+X-Mailer: MailChimp Mailer - **CID0d64188331cb28263d51**
+X-Campaign: mailchimp9ad48e023e0e67d4a8cda3fc9.0d64188331
+X-campaignid: mailchimp9ad48e023e0e67d4a8cda3fc9.0d64188331
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=9ad48e023e0e67d4a8cda3fc9&id=0d64188331&e=cb28263d51
+X-MC-User: 9ad48e023e0e67d4a8cda3fc9
+X-Feedback-ID: 26596899:26596899.812345:us3:mc
+List-ID: 9ad48e023e0e67d4a8cda3fc9mc list <9ad48e023e0e67d4a8cda3fc9.414121.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <http://ello.us3.list-manage1.com/unsubscribe?u=9ad48e023e0e67d4a8cda3fc9&id=4428617493&e=cb28263d51&c=0d64188331>, <mailto:unsubscribe-mc.us3_9ad48e023e0e67d4a8cda3fc9.0d64188331-cb28263d51@mailin1.us2.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_588996436"
+MIME-Version: 1.0
+
+--_----------=_MCPart_588996436
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+------------------------------------------------------------
+http://mailchi.mp/newsletters/win-a-copy-of-not-for-print-give-us-your-feed=
+back?e=3Dcb28263d51
+http://ello.co
+
+
+** Ello is Editorializing
+------------------------------------------------------------
+We are working on an all new home page experience to better communicate the=
+ value of Ello the platform and Ello the community.
+
+Our mission is to put =E2=80=9Ccreators first,=E2=80=9D and provide creator=
+s with visibility, influence, and opportunity =E2=80=94 the goal of Ello=E2=
+=80=99s new editorialized experience is to clearly communicate how we are f=
+ulfilling these promises.
+
+We=E2=80=99ll be highlighting more of the talent, leading edge creative out=
+put and opportunities (interviews, member features, contests, giveaways, jo=
+bs, etc.) that are currently nestled inside of Ello. And we plan to do so i=
+n a way that=E2=80=99s not only great for creatives, but for lovers of crea=
+tivity, fans, brands and agencies too.
+
+Check out the prototype (https://invis.io/HPB783JK2)  and then take this br=
+ief (5 question) survey. We will be giving away 5 copies of Not For Print I=
+ssue 01 to 5 random participants.
+
+Note: the prototype is not clickable or responsive. If it doesn=E2=80=99t f=
+it on your monitor try zooming out.
+Take the Survey (https://ello.typeform.com/to/qrMcaT)
+Ello
+The Creators Network.
+https://ello.co/ello https://twitter.com/ellohype http://ellohype.tumblr.co=
+m/ https://www.instagram.com/ellohype/ https://www.pinterest.com/ellohype/ =
+https://www.facebook.com/ellohype/ https://plus.google.com/u/1/b/1088733245=
+37875489413/108873324537875489413
+Follow us around
+Ello is a networked marketplace and publishing platform
+providing creators visibility, influence and opportunity.
+https://ello.co/wtf/resources/mobile-features/?utm_source=3Demail&utm_mediu=
+m=3Dimage&utm_campaign=3Dfooter
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Change your ** email preferences (http://ello.us3.list-manage1.com/profile?=
+u=3D9ad48e023e0e67d4a8cda3fc9&id=3D4428617493&e=3Dcb28263d51)
+
+If you don't want to receive emails from Ello anymore,
+please unsubscribe ** here (http://ello.us3.list-manage1.com/unsubscribe?u=
+=3D9ad48e023e0e67d4a8cda3fc9&id=3D4428617493&e=3Dcb28263d51&c=3D0d64188331)
+.
+
+Ello, PBC, 1100 Spruce St. Ste #104, Boulder, CO 80302
+--_----------=_MCPart_588996436
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <!-- Facebook sharing information tags -->
+        <meta property="og:title" content="Win a copy of Not For Print. Give us your feedback. ">
+                
+        <title>Win a copy of Not For Print. Give us your feedback. </title>
+		
+		
+	<style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		body{
+			width:100% !important;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		body{
+			-webkit-text-size-adjust:none;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		table td{
+			border-collapse:collapse;
+		}
+		#backgroundTable{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		body,#backgroundTable{
+			background-color:#FFFFFF;
+		}
+		#templateContainer{
+			border:0px solid #DDDDDD;
+		}
+		h1,.h1{
+			color:#000000;
+			display:block;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:24px;
+			font-weight:bold;
+			line-height:30px;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:0px;
+			margin-left:0;
+			text-transform:none;
+		}
+		h2,.h2{
+			color:#000000;
+			display:block;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:30px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:0px;
+			margin-left:0;
+			text-align:left;
+			text-transform:none;
+		}
+		h3,.h3{
+			color:#000000;
+			display:block;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:26px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:0px;
+			margin-left:0;
+			text-align:left;
+			text-transform:none;
+		}
+		h4,.h4{
+			color:#000000;
+			display:block;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:22px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:0px;
+			margin-left:0;
+			text-align:left;
+			text-transform:none;
+		}
+		#templateHeader{
+			background-color:#FFFFFF;
+		}
+		.preheaderContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:11px;
+			line-height:13px;
+			text-align:center;
+		}
+		.preheaderContent div a:link,.preheaderContent div a:visited,.preheaderContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#headerImage{
+			height:auto;
+			max-width:60px;
+		}
+		#templateContainer,.bodyContent{
+			background-color:#FFFFFF;
+		}
+		#catheaderDiv,.catheaderDiv{
+			border-top:1px #000000 solid;
+		}
+		.categoryheaderContent div{
+			color:#000000;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:15px;
+			line-height:15px;
+			text-align:center;
+		}
+		.categoryheaderContent div a:link,.categoryheaderContent div a:visited,.categoryheaderContent div a .yshortcuts {
+			color:#000001;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		.bodyContent div{
+			color:#000000;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:15px;
+			line-height:22px;
+			text-align:left;
+		}
+		.bodyContent div a:link,.bodyContent div a:visited,.bodyContent div a .yshortcuts {
+			color:#000001;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		.captionContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:10px;
+			line-height:10px;
+			text-align:center;
+		}
+		.captionContent div a:link,.captionContent div a:visited,.captionContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.bigcaptionContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:12px;
+			line-height:19px;
+		}
+		.bigcaptionContent div a:link,.bigcaptionContent div a:visited,.bigcaptionContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.followusContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:12px;
+			line-height:22px;
+			text-align:center;
+		}
+		.followusContent div a:link,.followusContent div a:visited,.followusContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.sponsoredbyContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:12px;
+			line-height:18px;
+			text-align:left;
+		}
+		.sponsoredbyContent div a:link,.sponsoredbyContent div a:visited,.sponsoredbyContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.closinglinksbodyContent div{
+			color:#000000;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:15px;
+			line-height:22px;
+			text-align:left;
+		}
+		.closinglinksbodyContent div a:link,.closinglinksbodyContent div a:visited,.closinglinksbodyContent div a .yshortcuts {
+			color:#000001;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		ul{
+			padding:20px;
+			margin:0px;
+		}
+		.bodyContent img{
+			display:inline;
+			height:auto;
+		}
+		#ctaImage{
+			max-width:78px;
+		}
+		#templateButton,.templateButton{
+			-moz-border-radius:30px;
+			-webkit-border-radius:30px;
+			background-color:#000000;
+			border:0;
+			border-radius:30px;
+			padding:9px;
+		}
+		.templateButtonContent,.templateButtonContent a:link,.templateButtonContent a:visited,.templateButtonContent a .yshortcuts{
+			color:#FFFFFF;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:12px;
+			font-weight:normal;
+			letter-spacing:0px;
+			line-height:12px;
+			text-align:center;
+			text-decoration:none;
+			padding-left:3px;
+			padding-right:3px;
+		}
+		#discovermoretemplateButton,.discovermoretemplateButton{
+			-moz-border-radius:3px;
+			-webkit-border-radius:3px;
+			background-color:#00D100;
+			border:0;
+			border-radius:3px;
+		}
+		.discovermoretemplateButtonContent,.discovermoretemplateButtonContent a:link,.discovermoretemplateButtonContent a:visited,.discovermoretemplateButtonContent a .yshortcuts{
+			color:#FFFFFF;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:14px;
+			font-weight:normal;
+			letter-spacing:0px;
+			line-height:14px;
+			text-align:center;
+			text-decoration:none;
+		}
+		.templateColumnContainer{
+			width:285px;
+		}
+		.templateColumnContainerNew{
+			width:290px;
+		}
+		.templateColumnContainerH6{
+			width:92px;
+		}
+		.templateColumnContainerH5{
+			width:112px;
+		}
+		.templateColumnContainerH4{
+			width:143px;
+		}
+		#templateFooter{
+			background-color:#FFFFFF;
+		}
+		.footertaglineContent div{
+			color:#000000;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:18px;
+			font-weight:bold;
+			line-height:24px;
+			text-align:center;
+		}
+		.footertaglineContent div a:link,.footertaglineContent div a:visited,.footertaglineContent div a .yshortcuts {
+			color:#000001;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		.footerprofilemanagementContent div{
+			color:#AAAAAA;
+			font-family:Helvetica, Arial, sans-serif;
+			font-size:11px;
+			line-height:13px;
+			text-align:left;
+		}
+		.footerprofilemanagementContent div a:link,.footerprofilemanagementContent div a:visited,.footerprofilemanagementContent div a .yshortcuts {
+			color:#AAAAAA;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.footerContent img{
+			display:inline;
+		}
+	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:auto !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[id=bodyCell]{
+			padding:15px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[id=bodyTable]{
+			padding:0px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[class=hidebodyspacer]{
+			display:none;
+		}
+
+}	@media only screen and (max-width: 480px){
+		span[class=hidemobile]{
+			display:none;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td[class=hidemobile]{
+			display:none;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table[id=templateContainer]{
+			max-width:600px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:24px !important;
+			line-height:30px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:18px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:15px !important;
+			line-height:16px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=headerImage]{
+			height:auto !important;
+			max-width:60px !important;
+			width:60px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=preheaderContent]{
+			font-size:15px !important;
+			line-height:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainer{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainerNew{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainerH6{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainerH5{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.templateColumnContainerH4{
+			display:block !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=bodyContent]{
+			font-size:15px !important;
+			line-height:22px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=categoryheaderContent]{
+			font-size:15px !important;
+			line-height:15px !important;
+			padding-bottom:15px;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=captionContent]{
+			font-size:10px !important;
+			line-height:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=bigcaptionContent]{
+			font-size:12px !important;
+			line-height:12px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=followusContent]{
+			font-size:15px !important;
+			line-height:22px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=closinglinksbodyContent]{
+			font-size:15px !important;
+			line-height:22px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[class=bodyImage]{
+			*/height:auto !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=profileiconlgImage]{
+			height:auto !important;
+			max-width:60px !important;
+			width:60px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=profileiconsmImage]{
+			height:auto !important;
+			max-width:30px !important;
+			width:30px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=profileiconmedImage]{
+			height:auto !important;
+			max-width:40px !important;
+			width:40px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=emojiImage]{
+			height:auto !important;
+			max-width:22px !important;
+			width:22px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=ctaImage]{
+			height:auto !important;
+			max-width:78px !important;
+			width:78px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=followctaImage]{
+			height:auto !important;
+			max-width:103px !important;
+			width:103px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=seemorectaImage]{
+			height:auto !important;
+			max-width:104px !important;
+			width:104px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=viewctaImage]{
+			height:auto !important;
+			max-width:73px !important;
+			width:73px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=explorectaImage]{
+			height:auto !important;
+			max-width:89px !important;
+			width:89px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=hirectaImage]{
+			height:auto !important;
+			max-width:68px !important;
+			width:68px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=collabctaImage]{
+			height:auto !important;
+			max-width:82px !important;
+			width:82px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=buyctaImage]{
+			height:auto !important;
+			max-width:64px !important;
+			width:64px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=socialiconImage]{
+			height:auto !important;
+			max-width:20px !important;
+			width:16px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=socialicontumblrImage]{
+			height:auto !important;
+			max-width:12px !important;
+			width:8px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		img[id=sponsorlogoImage]{
+			height:auto !important;
+			max-width:70px !important;
+			width:70px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=footertaglineContent]{
+			font-size:18px !important;
+			line-height:24px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		div[class=footerprofilemanagementContent]{
+			font-size:15px !important;
+			line-height:18px !important;
+		}
+
+}</style></head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #FFFFFF;width: 100% !important;">
+    	<center>
+        	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable" style="margin: 0;padding: 0;background-color: #FFFFFF;height: 100% !important;width: 100% !important;">
+            	<tr>
+                	<td align="center" valign="top" id="bodyCell" style="border-collapse: collapse;">
+                    	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border: 0px solid #DDDDDD;background-color: #FFFFFF;">
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader" style="background-color: #FFFFFF;">
+                                        <tr>
+                                            <td valign="top" align="left" style="border-collapse: collapse;">
+                                            	<!-- // Begin Module: Preheader Content \\ -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                	<tr>
+                                                		<td valign="top" align="left" height="15" class="hidemobile" style="border-collapse: collapse;">
+                                                		</td>
+                                                	</tr>
+                                                	<tr>
+                                                		<td valign="top" align="left" width="100%" style="border-collapse: collapse;">
+                                                        	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                				<tr>
+                                                					<td valign="top" align="center" class="preheaderContent" style="border-collapse: collapse;">
+                                                						<div class="preheaderContent" style="color: #AAAAAA;font-family: Helvetica, Arial, sans-serif;font-size: 11px;line-height: 13px;text-align: center;"><span style="color:#FFFFFF">Tell us what you think about seeing jobs on Ello.</span><br>
+Having trouble reading this email? <a href="http://mailchi.mp/newsletters/win-a-copy-of-not-for-print-give-us-your-feedback?e=cb28263d51" style="color: #AAAAAA;font-weight: normal;text-decoration: underline;">Click here</a> to view it in your browser</div>
+                                                					</td>
+                                                				</tr>
+                                                			</table>
+                                                		</td>
+                                                	</tr>
+                                                </table>
+                                                <!-- // End Module: Preheader Content \\ -->                                         
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left" style="border-collapse: collapse;">
+                                            	<!-- // Begin Module: Header Content \\ -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" mc:repeatable="repeat_1" mc:variant="daily ello header" mc:repeatindex="0" mc:hideable="hideable_repeat_1_1" mchideable="hideable_repeat_1_1">
+                                                	<tr>
+                                                		<td valign="top" align="left" height="60" style="border-collapse: collapse;">
+                                                		</td>
+                                                	</tr>
+                                                	<tr>
+                                                		<td valign="top" align="left" width="100%" style="border-collapse: collapse;">
+                                                        	<table border="0" cellpadding="0" cellspacing="0">
+                                                				<tr>
+                                                					<td valign="top" align="left" style="border-collapse: collapse;">
+                                                						<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=68ef8e6a24&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/3555c34d-649a-438f-8ed9-6f08edbf2901.png" alt="Ello" border="0" style="margin: 0;padding: 0;max-width: 60px;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="headerImage"></a>
+                                                					</td>
+                                                					<td style="border-collapse: collapse;">
+                                                						<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;" width="20">
+                                                					</td>
+                                                					<td valign="middle" align="left" style="border-collapse: collapse;"><h1 class="h1" style="color: #000000;display: block;font-family: Helvetica, Arial, sans-serif;font-size: 24px;font-weight: bold;line-height: 30px;margin-top: 0;margin-right: 0;margin-bottom: 0px;margin-left: 0;text-transform: none;">Ello is Editorializing</h1>
+</td>
+                                                				</tr>
+                                                			</table>
+                                                		</td>
+                                                	</tr>
+                                                	<tr>
+                                                		<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                		</td>
+                                                	</tr>
+                                                </table>
+                                                <!-- // End Module: Header Content \\ -->   
+                                                
+												<!-- // Begin Module: Header Content \\ -->
+                                                
+                                                <!-- // End Module: Header Content \\ -->                                             
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
+                                    	<tr>
+                                            <td valign="top" align="left" style="border-collapse: collapse;">
+                                                                                
+                                                <!-- // Begin Module: Category Headers 6 Content \\ -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" mc:repeatable="repeat_2" mc:variant="paragraph with no image" mc:repeatindex="0">
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" align="left" width="100%" style="border-collapse: collapse;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                            	<tr>
+                                                            		<td valign="top" align="left" class="bodyContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                            			<div class="bodyContent" style="background-color: #FFFFFF;color: #000000;font-family: Helvetica, Arial, sans-serif;font-size: 15px;line-height: 22px;text-align: left;">We are working on an all new home page experience to better communicate the value of Ello the platform and Ello the community.&nbsp;<br>
+<br>
+Our mission is to put &ldquo;creators first,&rdquo; and provide creators with visibility, influence, and opportunity &mdash; the goal of Ello&rsquo;s new editorialized experience is to clearly communicate how we are fulfilling these promises.&nbsp;<br>
+<br>
+We&rsquo;ll be highlighting more of the talent, leading edge creative output and opportunities (interviews, member features, contests, giveaways, jobs, etc.) that are currently nestled inside of Ello. And we plan to do so in a way that&rsquo;s not only great for creatives, but for lovers of creativity, fans, brands and agencies too.<br>
+<br>
+Check out the <u><strong><a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=8960ec3fa2&e=cb28263d51" target="_blank" style="color: #000001;font-weight: bold;text-decoration: none;">prototype</a></strong></u>&nbsp;and then take this brief (5 question) survey.&nbsp;<strong><em>We will be giving away 5 copies of Not For Print Issue 01 to 5 random participants.</em></strong><br>
+<br>
+Note: the prototype is not clickable or responsive. If it doesn&rsquo;t fit on your monitor try zooming out.</div>
+                                                            		</td>
+                                                            	</tr>
+                                                            </table>
+														</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                </table><table border="0" cellpadding="0" cellspacing="0" width="100%" mc:repeatable="repeat_2" mc:variant="discover more cta button" mc:repeatindex="1">
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="70" style="border-collapse: collapse;"> 
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="center" style="border-collapse: collapse;">
+                                                    		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    			<tr>
+                                                    				<td valign="top" align="center" style="border-collapse: collapse;">
+                                                    					<table border="0" cellpadding="0" cellspacing="0" width="200" id="discovermoretemplateButton" class="discovermoretemplateButton" style="-moz-border-radius: 3px;-webkit-border-radius: 3px;background-color: #00D100;border: 0;border-radius: 3px;">
+                                                            				<tr>
+                                                            					<td valign="middle" align="center" height="60" class="discovermoretemplateButtonContent" style="border-collapse: collapse;color: #FFFFFF;font-family: Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;letter-spacing: 0px;line-height: 14px;text-align: center;text-decoration: none;">
+                                                            						<div><a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=1fc136973a&e=cb28263d51" target="_blank" style="color: #FFFFFF;font-family: Helvetica, Arial, sans-serif;font-size: 14px;font-weight: normal;letter-spacing: 0px;line-height: 14px;text-align: center;text-decoration: none;">Take the Survey</a></div>
+                                                            					</td>
+                                                            				</tr>
+                                                            			</table>
+                                                    				</td>
+                                                    			</tr>
+                                                    		</table>
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="70" style="border-collapse: collapse;"> 
+                                                    	</td>
+                                                    </tr>
+                                                </table><table border="0" cellpadding="0" cellspacing="0" width="100%" mc:repeatable="repeat_2" mc:variant="closing" mc:repeatindex="2">
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" align="left" width="100%" class="bodyContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                            	<tr>
+                                                            		<td style="border-collapse: collapse;">
+                                                            			<div class="bodyContent" style="background-color: #FFFFFF;color: #000000;font-family: Helvetica, Arial, sans-serif;font-size: 15px;line-height: 22px;text-align: left;">
+                                                                			Ello<br>
+                                                                			The Creators Network.
+                                                            			</div>
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" height="100" style="border-collapse: collapse;">
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" align="center" style="border-collapse: collapse;">
+                                                            			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                            				<tr>
+                                                            					<td valign="top" align="center" style="border-collapse: collapse;">
+                                                            						<table border="0" cellpadding="0" cellspacing="0">
+                                                            							<tr>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=e592e2e6ba&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/3ce3b622-4caf-4842-a87b-6005c10d1084.png" alt="Ello" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage1.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=f6a3aa44e9&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/77483bf9-eab8-4cfb-b266-350c394b6738.png" alt="Twitter" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=2baf4620b5&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6bf1d77b-36af-4133-bb5a-6628c45ab01f.png" alt="Tumblr" border="0" style="margin: 0;padding: 0;max-width: 12px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialicontumblrImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=d11ca4f217&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/3ae8e3d8-604e-42b0-bf7f-4396d5eda835.png" alt="Instagram" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage1.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=9fccd1d9ae&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/44b00bd4-44d1-46ec-8f08-33f01cbb2972.png" alt="Pinterest" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=53b9662b6a&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/a4dea5bf-228c-4c1d-bee6-72d73e02bc54.png" alt="Facebook" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            								<td style="border-collapse: collapse;">
+                                                            									<img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/6b0affbc-f1a0-4c8e-a414-65349607d4cd.png" style="height: 1px;border: 0;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="30">
+                                                            								</td>
+                                                            								<td valign="middle" align="center" style="border-collapse: collapse;">
+                                                            									<a href="http://ello.us3.list-manage1.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=e37dcdf455&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/ab10e8a6-5e8b-4d51-a7d7-cc926db41abb.png" alt="Google+" border="0" style="margin: 0;padding: 0;max-width: 20px;display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;" id="socialiconImage"></a>
+                                                            								</td>
+                                                            							</tr>
+                                                            						</table>
+                                                            					</td>
+                                                            				</tr>
+                                                            				<tr>
+                                                            					<td valign="top" height="30" style="border-collapse: collapse;">
+                                                            					</td>
+                                                            				</tr>
+                                                            				<tr>
+                                                            					<td valign="top" align="center" class="followusContent" style="border-collapse: collapse;">
+                                                            						<div class="followusContent" style="color: #AAAAAA;font-family: Helvetica, Arial, sans-serif;font-size: 12px;line-height: 22px;text-align: center;">
+                                                            							Follow us around
+                                                            						</div>
+                                                            					</td>
+                                                            				</tr>
+                                                            			</table>
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" height="60" style="border-collapse: collapse;">
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" align="center" class="footertaglineContent" style="border-collapse: collapse;">
+                                                            			<div class="footertaglineContent" style="color: #000000;font-family: Helvetica, Arial, sans-serif;font-size: 18px;line-height: 24px;text-align: center;font-weight: bold;">
+                                                            				Ello is a networked marketplace and publishing platform <span class="hidemobile"><br></span>providing creators visibility, influence and opportunity.
+                                                            			</div>
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" height="60" style="border-collapse: collapse;">
+                                                            		</td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            		<td valign="top" align="center" style="border-collapse: collapse;">
+                                                            			<a href="http://ello.us3.list-manage.com/track/click?u=9ad48e023e0e67d4a8cda3fc9&id=6338799364&e=cb28263d51"><img src="https://gallery.mailchimp.com/9ad48e023e0e67d4a8cda3fc9/images/378a51e7-ac0d-443d-9519-d1ea030375c0.gif" alt="Download our apps." border="0" style="margin: 0;padding: 0;max-width: 600px;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;display: inline;" class="bodyImage"></a>
+                                                            		</td>
+                                                            	</tr>
+                                                            </table>
+														</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Category Headers 6 Content \\ -->
+                                                
+                                                <!-- // Begin Module: Category Headers 5 Content \\ -->
+                                                
+                                                <!-- // End Module: Category Headers 5 Content \\ -->
+                                                
+                                                <!-- // Begin Module: Category Headers 4 Content \\ -->
+                                                
+                                                <!-- // End Module: Category Headers 4 Content \\ -->
+                                                
+                                                <!-- // Begin Module: h1 no logo Content \\ -->
+                                                
+                                                <!-- // End Module: h1 no logo Content \\ -->
+                                                
+                                                <!-- // Begin Module: Paragraph With No Image Content \\ -->
+                                                
+                                                <!-- // End Module: Paragraph With No Image Content \\ -->
+                                                
+                                                <!-- // Begin Module: Sponsored Sections Content \\ -->
+                                                
+                                                <!-- // End Module: Sponsored Sections Content \\ -->
+                                                                                                
+                                                <!-- // Begin Module: Full Width Centered Image Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Centered Image Content \\ -->
+                                                
+                                                <!-- // Begin Module: Single CTA Button Content \\ -->
+                                                
+                                                <!-- // End Module: Single CTA Button Content \\ -->
+                                                
+                                                <!-- // Begin Module: Featured Post Content \\ -->
+                                                
+                                                <!-- // End Module: Featured Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Curated Weekly Email Intro Content \\ -->
+                                                
+                                                <!-- // End Module: Curated Weekly Email Intro Content \\ -->
+                                                
+                                                <!-- // Begin Module: Post w Full Width Image Follow Content \\ -->
+                                                
+                                                <!-- // End Module: Post w Full Width Image Follow Content \\ -->
+                                                
+                                                <!-- // Begin Module: Post w Full Width Image See More Content \\ -->
+                                                
+                                                <!-- // End Module: Post w Full Width Image See More Content \\ -->
+                                                
+                                                <!-- // Begin Module: Post w Full Width Image View Content \\ -->
+                                                
+                                                <!-- // End Module: Post w Full Width Image View Content \\ -->
+                                                
+                                                <!-- // Begin Module: Post w Full Width Image Explore Content \\ -->
+                                                
+                                                <!-- // End Module: Post w Full Width Image Explore Content \\ -->
+                                                
+                                                <!-- // Begin Module: Post w Full Width Image No Button Content \\ -->
+                                                
+                                                <!-- // End Module: Post w Full Width Image No Button Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Post wo Image Follow Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Post wo Image Follow Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Post wo Image See More Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Post wo Image See More Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Post wo Image View Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Post wo Image View Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Post wo Image Explore Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Post wo Image Explore Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Post wo Image No Button Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Post wo Image No Button Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col Staggered Repeatable Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col Staggered Repeatable Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col Hire Me Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col Hire Me Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Hire Me Post Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Hire Me Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col Collab Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col Collab Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Collab Post Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Collab Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col See More Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col See More Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width See More Post Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width See More Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col View Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col View Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width View Post Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width View Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Two Col Buy Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col Buy Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width Buy Post Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width Buy Post Content \\ -->
+                                                
+                                                <!-- // Begin Module: Image Left Post Follow Content \\ -->
+                                                
+                                                <!-- // End Module: Image Left Post Follow Content \\ -->
+                                                
+                                                <!-- // Begin Module: Image Left Post See More Content \\ -->
+                                                
+                                                <!-- // End Module: Image Left Post See More Content \\ -->
+                                                
+                                                <!-- // Begin Module: Image Left Post View Content \\ -->
+                                                
+                                                <!-- // End Module: Image Left Post View Content \\ -->
+                                                
+                                                <!-- // Begin Module: Image Left Post Explore Content \\ -->
+                                                
+                                                <!-- // End Module: Image Left Post Explore Content \\ -->
+                                                
+                                                <!-- // Begin Module: Image Left Post No Button Content \\ -->
+                                                
+                                                <!-- // End Module: Image Left Post No Button Content \\ -->
+
+                                               	<!-- // Begin Module: Two Col Posts Content \\ -->
+                                                
+                                                <!-- // End Module: Two Col Posts Content \\ -->
+                                                
+                                                <!-- // Begin Module: Most Popular Post Follow Content \\ -->
+                                                
+                                                <!-- // End Module: Most Popular Post Follow Content \\ -->
+                                                
+                                                <!-- // Begin Module: Most Popular Post See More Content \\ -->
+                                                
+                                                <!-- // End Module: Most Popular Post See More Content \\ -->
+                                                
+                                                <!-- // Begin Module: Most Popular Post View Content \\ -->
+                                                
+                                                <!-- // End Module: Most Popular Post View Content \\ -->
+                                                
+                                                <!-- // Begin Module: Most Popular Post Explore Content \\ -->
+                                                
+                                                <!-- // End Module: Most Popular Post Explore Content \\ -->
+                                                
+                                                <!-- // Begin Module: Most Popular Post No Button Content \\ -->
+                                                
+                                                <!-- // End Module: Most Popular Post No Button Content \\ -->
+                                                
+                                                <!-- // Begin Module: Big List View Left Content \\ -->
+                                                
+                                                <!-- // End Module: Big List View Left Content \\ -->
+                                                
+                                                <!-- // Begin Module: Big List View Centered Content \\ -->
+                                                
+                                                <!-- // End Module: Big List View Centered Content \\ -->
+                                                
+                                                <!-- // Begin Module: Discover More CTA Button Content \\ -->
+                                                
+                                                <!-- // End Module: Discover More CTA Button Content \\ -->
+                                                
+                                                <!-- // Begin Module: Full Width CTA Content \\ -->
+                                                
+                                                <!-- // End Module: Full Width CTA Content \\ -->
+                                                                                                                                                                                                
+                                                <!-- // Begin Module: Closing Sponsored Full Content \\ -->
+                                                
+                                                <!-- // End Module: Closing Sponsored Full Content \\ -->
+                                                
+												<!-- // Begin Module: Closing Content \\ -->
+                                                
+                                                <!-- // End Module: Closing Content \\ -->                                                                                               
+                                                       
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter" style="background-color: #FFFFFF;">
+                                    	<tr>
+                                        	<td valign="top" align="left" style="border-collapse: collapse;">                                   
+                                                <!-- // Begin Module: Standard Footer \\ -->
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" mc:repeatable="repeat_3" mc:variant="standard footer" mc:repeatindex="0" mc:hideable="hideable_repeat_3_1" mchideable="hideable_repeat_3_1">
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="left" class="footerprofilemanagementContent" style="border-collapse: collapse;">
+                                                    		<div class="footerprofilemanagementContent" style="color: #AAAAAA;font-family: Helvetica, Arial, sans-serif;font-size: 11px;line-height: 13px;text-align: left;">
+                                                    			Change your <a href="http://ello.us3.list-manage1.com/profile?u=9ad48e023e0e67d4a8cda3fc9&id=4428617493&e=cb28263d51" style="color: #AAAAAA;font-weight: normal;text-decoration: underline;">email preferences</a><br>
+                                                    			<br>
+                                                    			If you don't want to receive emails from Ello anymore,<br>
+                                                    			please unsubscribe <a href="http://ello.us3.list-manage1.com/unsubscribe?u=9ad48e023e0e67d4a8cda3fc9&id=4428617493&e=cb28263d51&c=0d64188331" style="color: #AAAAAA;font-weight: normal;text-decoration: underline;">here</a>.<br>
+                                                    			<br>
+                                                    			Ello, PBC, 1100 Spruce St. Ste #104, Boulder, CO 80302
+                                                    		</div>
+                                                    	</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" align="left" height="30" style="border-collapse: collapse;">
+                                                    	</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standard Footer \\ -->
+                                                
+                                                <!-- // Begin Module: Sponsored By Footer \\ -->
+                                                
+                                                <!-- // End Module: Sponsored By Footer \\ -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="http://ello.us3.list-manage.com/track/open.php?u=9ad48e023e0e67d4a8cda3fc9&id=0d64188331&e=cb28263d51" height="1" width="1"></body>
+</html>
+--_----------=_MCPart_588996436--
